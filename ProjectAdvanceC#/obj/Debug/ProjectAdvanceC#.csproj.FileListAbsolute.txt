@@ -1,0 +1,12 @@
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\obj\Debug\ProjectAdvanceC#.csproj.AssemblyReference.cache
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\obj\Debug\ProjectAdvanceC#.csproj.CoreCompileInputs.cache
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\ProjectAdvanceC#.exe.config
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\ProjectAdvanceC#.exe
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\ProjectAdvanceC#.pdb
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\EntityFramework.dll
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\EntityFramework.xml
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\obj\Debug\ProjectA.E6C25604.Up2Date
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\obj\Debug\ProjectAdvanceC#.exe
+C:\Users\DigiGolestan.ir\source\repos\ProjectAdvanceC#\ProjectAdvanceC#\obj\Debug\ProjectAdvanceC#.pdb
